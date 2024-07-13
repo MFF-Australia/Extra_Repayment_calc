@@ -201,6 +201,7 @@ function updateChart() {
                 data: dataWithExtra,
                 backgroundColor: 'rgba(103, 201, 174, 0.2)',
                 borderColor: 'rgba(103, 201, 174, 1)',
+                fill: true,
                 borderWidth: 2,
                 pointRadius: 3
             }, {
@@ -208,6 +209,7 @@ function updateChart() {
                 data: dataWithoutExtra,
                 backgroundColor: 'rgba(211, 211, 211, 0.2)',
                 borderColor: 'rgba(128, 128, 128, 1)',
+                fill: true,
                 borderWidth: 2,
                 pointRadius: 3
             }]
