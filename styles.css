@@ -20,7 +20,7 @@ h4 {
 
 button {
     padding: 10px 20px;
-    background-color: #03a678;
+    background-color: #3cbcdb; /* Replaced with blue */
     color: white;
     border: none;
     border-radius: 4px;
@@ -28,7 +28,7 @@ button {
 }
 
 button:hover {
-    background-color: #35b793;
+    background-color: #60efe8; /* Replaced with light blue */
 }
 
 /* Container Styles */
@@ -113,7 +113,7 @@ select {
 }
 
 .result-item {
-    color: #35b793;
+    color: #3cbcdb; /* Replaced with blue */
 }
 
 .result-item2 span {
@@ -194,7 +194,6 @@ canvas {
     margin-bottom: 20px;
 }
 
-
 /* Responsive Styles */
 @media (max-width: 768px) {
     #calculator-container {
@@ -215,6 +214,6 @@ canvas {
 }
 
 .logo {
-    width: 200px;
+    width: 250px;
     height: auto;
 }
