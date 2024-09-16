@@ -199,8 +199,8 @@ function updateChart() {
             datasets: [{
                 label: 'With Extra',
                 data: dataWithExtra,
-                backgroundColor: 'rgba(103, 201, 174, 0.2)',
-                borderColor: 'rgba(103, 201, 174, 1)',
+                backgroundColor: 'rgba(60,190,216, 0.2)',
+                borderColor: 'rgba(60,190,216, 1)',
                 fill: true,
                 borderWidth: 2,
                 pointRadius: 3
